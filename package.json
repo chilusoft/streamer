@@ -1,0 +1,20 @@
+{
+  "name": "streamer",
+  "version": "1.0.0",
+  "description": "Testing the music streaming capability of third-party modules",
+  "main": "server.js",
+  "scripts": {
+    "test": "devStart"
+  },
+  "keywords": [
+    "Express",
+    "Streaming"
+  ],
+  "author": "chilusoft@github.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "multer": "^1.4.2"
+  }
+}
